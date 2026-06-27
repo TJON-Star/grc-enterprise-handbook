@@ -1,22 +1,50 @@
+<div align="center">
+
 # GRC Enterprise Security Governance Handbook
 ### *"The Bible"* — Version 2026.4.0
 
-**Author:** Taiwo T. Johnson — GRC & Compliance Programme Lead  
-**LinkedIn:** [linkedin.com/in/taiwo-johnson-grc](https://www.linkedin.com/in/taiwo-johnson-grc)  
+</div>
+
+---
+
+<table>
+<tr>
+<td width="200" valign="top">
+
+![Taiwo T. Johnson](./profile-photo.jpg)
+
+**Taiwo T. Johnson**  
+GRC & Compliance Programme Lead  
+📧 taiwojohnson1989@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/taiwo-johnson-grc)  
+🐙 [GitHub](https://github.com/TJON-Star)
+
+</td>
+<td valign="top">
+
+![GRC Handbook Cover](./handbook-cover.png)
+
+</td>
+</tr>
+</table>
+
+---
+
 **Classification:** Public Reference Edition  
-**Pages:** 507 | **Volumes:** 12
+**Pages:** 507 | **Volumes:** 12  
+**Frameworks:** ISO 27001:2022 · NIST CSF 2.0 · PCI-DSS v4.0 · DORA · NIS2
 
 ---
 
 ## What This Is
 
-A practitioner-built enterprise GRC reference handbook integrating the 
-frameworks, methodologies, and operational knowledge required to design, 
+A practitioner-built enterprise GRC reference handbook integrating the
+frameworks, methodologies, and operational knowledge required to design,
 run, and audit a world-class governance, risk, and compliance programme.
 
-This is not a summary of frameworks. It is a working reference built from 
-real programme delivery across regulated fintech and multi-site operational 
-environments — written for GRC practitioners, CISOs, risk committees, and 
+This is not a summary of frameworks. It is a working reference built from
+real programme delivery across regulated fintech and multi-site operational
+environments — written for GRC practitioners, CISOs, risk committees, and
 regulatory auditors.
 
 ---
@@ -66,18 +94,37 @@ BSI IT-Grundschutz · KRITIS · Central Bank of Nigeria Cybersecurity Framework
 
 ## About the Author
 
-Taiwo T. Johnson is a GRC and Information Security Risk professional with 
-6 years of hands-on programme delivery across regulated fintech and 
-operational risk management. Zero audit findings across ISO 27001, 
-PCI-DSS v4.0, and GDPR certification cycles at two separate organisations.
+<table>
+<tr>
+<td width="200" valign="top">
 
-Open to Senior GRC Analyst, IT Audit & Compliance, and Information Security 
-GRC roles in UAE, Germany, and Ireland.
+![Taiwo T. Johnson](./profile-photo.jpg)
+
+</td>
+<td valign="top">
+
+Taiwo T. Johnson is a GRC and Information Security Risk professional
+with 6 years of hands-on programme delivery across regulated fintech
+and operational risk management.
+
+**Zero audit findings across ISO 27001, PCI-DSS v4.0, and GDPR
+certification cycles at two separate organisations.**
+
+Author of the GRC Enterprise Security Governance Handbook — a
+507-page practitioner reference built from real programme delivery,
+not theoretical frameworks.
+
+Open to Senior GRC Analyst, IT Audit & Compliance, and Information
+Security GRC roles in UAE, Germany, and Ireland.
 
 📧 taiwojohnson1989@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/taiwo-johnson-grc)
+🔗 [LinkedIn — linkedin.com/in/taiwo-johnson-grc](https://www.linkedin.com/in/taiwo-johnson-grc)
+
+</td>
+</tr>
+</table>
 
 ---
 
-*This handbook is shared as a professional portfolio reference.*
+*This handbook is shared as a professional portfolio reference.*  
 *All framework standards referenced remain the intellectual property of their respective owners.*
