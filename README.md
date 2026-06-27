@@ -11,7 +11,7 @@
 <tr>
 <td width="200" valign="top">
 
-![Taiwo T. Johnson](./profile-photo.jpg)
+![Taiwo T. Johnson](./Professional%20Pic.jpeg)
 
 **Taiwo T. Johnson**  
 GRC & Compliance Programme Lead  
@@ -22,7 +22,7 @@ GRC & Compliance Programme Lead
 </td>
 <td valign="top">
 
-![GRC Handbook Cover](./handbook-cover.png)
+![GRC Handbook Cover](./Handbook%20cover%20.jpeg)
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ BSI IT-Grundschutz · KRITIS · Central Bank of Nigeria Cybersecurity Framework
 <tr>
 <td width="200" valign="top">
 
-![Taiwo T. Johnson](./profile-photo.jpg)
+![Taiwo T. Johnson](./Professional%20Pic.jpeg)
 
 </td>
 <td valign="top">
