@@ -7,7 +7,7 @@
 
 ---
 
-**Author:** Taiwo T. Johnson — GRC & Compliance Programme Lead
+**Author:** Taiwo Johnson — Logistics & Operations Professional | Cybersecurity GRC Portfolio Developer
 **LinkedIn:** [linkedin.com/in/taiwo-johnson-grc](https://www.linkedin.com/in/taiwo-johnson-grc)
 **GitHub:** [github.com/TJON-Star](https://github.com/TJON-Star)
 **Email:** taiwojohnson1989@gmail.com
@@ -20,21 +20,19 @@
 
 ![Taiwo T. Johnson](./Professional%20Pic.jpeg)
 
-Taiwo T. Johnson is a GRC and Information Security Risk professional with 6 years of hands-on programme delivery across regulated fintech and operational risk management.
+Taiwo Johnson is a logistics and operations professional developing a cybersecurity GRC portfolio. His work includes simulated third-party risk assessments, ISO 27001 gap-analysis exercises, risk registers, KYB/KYC casework, and evidence-based dashboards. His operational background includes logistics, procurement support, supplier coordination, and multi-site supply-chain activities.
 
-**Zero audit findings across ISO 27001, PCI-DSS v4.0, and GDPR certification cycles at two separate organisations.**
+This handbook is an independently developed learning and reference resource. Its case studies, templates, and scenarios are illustrative unless explicitly identified otherwise. They must not be interpreted as evidence of completed client engagements, independent audits, certification audits, or organisational certification outcomes.
 
-Author of the GRC Enterprise Security Governance Handbook — a 507-page practitioner reference built from real programme delivery, not theoretical frameworks.
-
-Open to GRC Analyst, IT Audit & Compliance, and Information Security GRC roles in **UAE**, **Germany**, and **Ireland**.
+Open to junior Cyber GRC, Third-Party Risk Management, Technology Risk, and IT Audit support roles.
 
 ---
 
 ## What This Is
 
-A practitioner-built enterprise GRC reference handbook integrating the frameworks, methodologies, and operational knowledge required to design, run, and audit a world-class governance, risk, and compliance programme.
+A structured GRC learning and reference handbook covering frameworks, methodologies, and practical artefacts relevant to governance, risk, and compliance programmes.
 
-This is not a summary of frameworks. It is a working reference built from real programme delivery across regulated fintech and multi-site operational environments — written for GRC practitioners, CISOs, risk committees, and regulatory auditors.
+It is designed as a study and portfolio resource for GRC practitioners and developing professionals. Examples and case studies are illustrative; they are not representations of work performed for real clients or employers.
 
 ---
 
@@ -59,7 +57,7 @@ This is not a summary of frameworks. It is a working reference built from real p
 
 ## Frameworks Integrated
 
-> ISO 27001:2022 · ISO 27005 · ISO 31000 · NIST CSF 2.0 · NIST RMF · PCI-DSS v4.0 · GDPR · DORA · NIS2 · UAE PDPL · NDPR · BCM · BSI IT-Grundschutz · KRITIS · Central Bank of Nigeria Cybersecurity Framework
+> ISO 27001:2022 · ISO 27005 · ISO 31000 · NIST CSF 2.0 · NIST RMF · PCI DSS v4.0.1 · GDPR · DORA · NIS2 · UAE PDPL · Nigeria Data Protection Act 2023 · NDPC GAID 2025 · BCM · BSI IT-Grundschutz · KRITIS · Central Bank of Nigeria Cybersecurity Framework
 
 ---
 
